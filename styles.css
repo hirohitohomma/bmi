@@ -1,0 +1,12 @@
+body {
+  background-color: green;
+}
+
+p{
+  margin-top: 40px;
+  text-align: center;
+}
+
+.inputcenter{
+  text-align: center;
+}
